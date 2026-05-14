@@ -69,6 +69,12 @@ python run_demo.py
 5. **Phase 5** — Compares optimization: finds optimal inputs with both models
 6. **Phase 6** — Generates a scatter plot (`comparison_plot.png`)
 
+## Next Steps / Code Organization
+
+- Move the model into a separate project and workspace, commit to GitHub as a separate repo. Create a ticket in the new repo to commit the PR and push it to mainline. Create unit tests.
+- Move the modelless predictor into a separate project and workspace, commit to GitHub as a separate repo. Create a ticket in the new repo to commit the PR and push it to mainline. Create unit tests.
+- Convert the current project into a web site for reporting, analysis and documentation. Considering Flask app, but looking for suggestions. Create a ticket in the new repo to commit the PR and push it to mainline.
+
 ## Project Structure
 
 ```
