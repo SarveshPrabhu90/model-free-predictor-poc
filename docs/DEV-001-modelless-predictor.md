@@ -81,6 +81,12 @@ pip install -r requirements.txt
 python run_demo.py
 ```
 
+## Next Steps / code organization 
+- Move the model into a separate project and workspace, commit to GitHub as a separate repo. Create a ticket in the new Repo to commit the PR and push it to mainline. Create Unit tests. 
+- Move the modelless predictor into a separate project and workspace, commit to GitHub as a separate repo. Create a ticket in the new Repo to commit the PR and push it to mainline. Create Unit tests. 
+- Convert the current project into a web site for reporting, analysis and documentation. Considering Flask app, but looking for suggestions. Create a ticket in the new Repo to commit the PR and push it to mainline. 
+
+
 ## Future Work
 
 - Replace linear regression with online/incremental learning for real-time adaptation
