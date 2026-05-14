@@ -71,7 +71,7 @@ python run_demo.py
 
 ## Next Steps / Code Organization
 
-- Move the model into a separate project and workspace, commit to GitHub as a separate repo. Create a ticket in the new repo to commit the PR and push it to mainline. Create unit tests.
+- ~~Move the model into a separate project and workspace, commit to GitHub as a separate repo. Create a ticket in the new repo to commit the PR and push it to mainline. Create unit tests.~~ **Done** → [explicit-model](https://github.com/SarveshPrabhu90/explicit-model)
 - Move the modelless predictor into a separate project and workspace, commit to GitHub as a separate repo. Create a ticket in the new repo to commit the PR and push it to mainline. Create unit tests.
 - Convert the current project into a web site for reporting, analysis and documentation. Considering Flask app, but looking for suggestions. Create a ticket in the new repo to commit the PR and push it to mainline.
 
